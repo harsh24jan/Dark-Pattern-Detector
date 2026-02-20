@@ -1,0 +1,18 @@
+# Node
+node_modules/
+
+# Python
+venv/
+backend/venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Expo
+.expo/
+dist/
+
+# OS
+.DS_Store
